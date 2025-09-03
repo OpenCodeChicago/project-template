@@ -22,8 +22,6 @@ We welcome contributions of all skill levels.
 - Tag issues with labels (e.g., `bug`, `enhancement`, `good first issue`)
 
 ## Getting Help
-If you’re stuck or unsure, feel free to:
-- Open a [Discussion](../../discussions)  
-- Reach out via our [Email](info@opencodechicago.org)
+If you’re stuck or unsure, feel free to reach out via our [Email](mailto:info@opencodechicago.org).
 
 Every contribution matters — big or small.
