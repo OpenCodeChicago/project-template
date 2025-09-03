@@ -1,11 +1,13 @@
 # Contributors
 
-Thanks goes to these wonderful people who contribute to this project 💜  
-(emoji key inspired by [all-contributors](https://allcontributors.org)).
+Thanks to everyone who contributes to this project!
+
+This file recognizes the individuals who have helped make this project better.   
 
 ## How to get listed
-If you open a Pull Request, Issue, or help in Discussions, feel free to add your name here in your PR.  
-Every contribution counts — code, docs, design, testing, ideas, and more!
+If you open a Pull Request, Issue, or help in Discussions, feel free to add your name here in your PR.
+
+Every contribution counts — from writing code, fixing bugs, improving docs, reviewing PRs, or even giving feedback!
 
 ---
 
