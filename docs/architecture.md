@@ -23,7 +23,3 @@ Each project created from this template should update this file to describe its 
 - Add your own source code folders (e.g., `src/`, `app/`)
 - Customize documentation in `docs/`
 - Add CI/CD workflows in `.github/workflows/`
-
----
-
-Feel free to expand this file with diagrams or more details as your template evolves!
